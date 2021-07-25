@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I am Luca 👋
+
+:zap: GitHub Stats
+
+<img align="left" alt="n3wt0n's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lukka&show_icons=true&hide_border=true&count_private=true" />
 
 <!--
 **lukka/lukka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
